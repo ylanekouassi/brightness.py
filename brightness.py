@@ -1,3 +1,5 @@
+#BRIGHTNESS LEVEL
+
 import screen_brightness_control as sbc
 
 print(f"Current brightness level: {sbc.get_brightness()}")
